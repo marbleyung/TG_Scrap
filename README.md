@@ -1,4 +1,4 @@
-THIS SCRIPT CAN PARSE TELEGRAM GROUPS
+THIS SCRIPT CAN PARSE TELEGRAM GROUPS (українська інструкція - у файлі README_ua.md)
 
 1. Go to https://my.telegram.org and login
 2. Press 'API development tools' and create a new application or go to step 3 if you already have one.
