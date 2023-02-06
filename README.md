@@ -9,6 +9,7 @@ THIS SCRIPT CAN PARSE TELEGRAM GROUPS
 "+380123456789"
 7. Enter the values in the app and get your result in .html file!
 8. If you didn't get any result, check log.txt.
+9. LIMIT - the bigger number you enter, more users you will get, but the script will run longer too.
 
 Q: What each option means?
 A: 1 - parse my channels - sending you list of the channels where you are member, 
