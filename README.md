@@ -33,5 +33,4 @@ If you want to parse from tg channel, there is only one method: to parse chat, w
 have replied to the message in channel. If you want to change the limit of 50 messages max,
 go to .env file and change 'MAX_MESSAGES'. 
 
-
 QUESTIONS, DEALS, EVERYTHING: raskolbrd@gmail.com
