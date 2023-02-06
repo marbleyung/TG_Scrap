@@ -3,10 +3,9 @@ _
 1. Go to https://my.telegram.org and login
 2. Press 'API development tools' and create a new application or go to step 3 if you already have one.
 3. Copy your 'App api_id' and 'App api_hash' to the .env file (next to '=' sign, no spaces, just ctrl+v)
-3*. .env file is in the same directory, open it with notepad, paste values, save file and close.
 4. Run 'parse.exe'.
 5. Follow the instructions in file you had open.
-6*. Phone number should be start with '+' and has international code (38 for UA). For example,
+6. Phone number should be start with '+' and has international code (38 for UA). For example,
 "+380123456789"
 7. Enter the values in the app and get your result in .html file!
 8. If you didn't get any result, check log.txt.
