@@ -35,6 +35,6 @@ Q: How can I know how many messages I should enter?
 A: More messages means more time for channel to be parsed and more users you get.
 If you want to parse from tg channel, there is only one method: to parse chat, where people
 have replied to the message in channel. If you want to change the limit of 50 messages max,
-go to .env file and change 'MAX_MESSAGES'. 
+go to .env file and change 'LIMIT'. 
 
 QUESTIONS, DEALS, EVERYTHING: raskolbrd@gmail.com
